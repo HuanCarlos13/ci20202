@@ -10,7 +10,7 @@ Projeto CI
 - [x] executar os testes
 - [x] quando enviado para o master, fazer o build do projeto
 - [ ] disponibilizar o relatório de cobertura de testes e build ao fim do workflow
-- [ ] quando enviado para o master, fazer a implantação do projeto
+- [ ] quando enviado para o master, fazer a implantação do projeto no [link](http://ci20202-huancarlos13.surge.sh/)
 
 ## Available Scripts
 
