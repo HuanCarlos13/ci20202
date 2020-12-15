@@ -1,3 +1,4 @@
+![CI](https://github.com/HuanCarlos13/ci20202/workflows/CI/badge.svg?branch=master)
 # Projeto Github Actions
 
 Projeto CI
