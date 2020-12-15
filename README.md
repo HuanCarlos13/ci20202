@@ -3,6 +3,15 @@
 
 Projeto CI
 
+## Tarefas a serem implementadas no CI
+
+- [x] fazer o checkout do projeto no CI
+- [x] fazer a configuração do ambiente (versão do node e instalação das dependências)
+- [x] executar os testes
+- [x] quando enviado para o master, fazer o build do projeto
+- [ ] disponibilizar o relatório de cobertura de testes e build ao fim do workflow
+- [ ] quando enviado para o master, fazer a implantação do projeto
+
 ## Available Scripts
 
 In the project directory, you can run:
