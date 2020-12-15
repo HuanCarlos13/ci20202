@@ -1,6 +1,6 @@
 # Projeto Github Actions
 
-Projeto CI.
+Projeto CI
 
 ## Available Scripts
 
